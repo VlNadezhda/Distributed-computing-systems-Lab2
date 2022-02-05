@@ -1,0 +1,16 @@
+3. Water flowers: 5 - done by process with pid:13538
+1. Wash dishes: 5 - done by process with pid:13536
+2. Clean up: 6 - done by process with pid:13537
+5. Feed a cat: 3 - done by process with pid:13538
+4. Go to the market: 10 - done by process with pid:13539
+6. Wash dishes: 5 - done by process with pid:13536
+7. Clean up: 6 - done by process with pid:13537
+8. Water flowers: 5 - done by process with pid:13538
+10. Feed a cat: 3 - done by process with pid:13536
+11. Wash dishes: 5 - done by process with pid:13537
+13. Water flowers: 5 - done by process with pid:13536
+12. Clean up: 6 - done by process with pid:13538
+9. Go to the market: 10 - done by process with pid:13539
+15. Feed a cat: 3 - done by process with pid:13536
+16. Feed a cat: 3 - done by process with pid:13538
+14. Go to the market: 10 - done by process with pid:13537

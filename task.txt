@@ -1,0 +1,17 @@
+1) Sweep the floor: 10
+2) Wash dishes: 5
+3) Clean up: 6
+4) Water flowers: 5
+5) Go to the market: 15
+6) Feed a cat: 3
+7) Clean up: 6
+8) Water flowers: 5
+9) Feed a cat: 3
+10) Wash dishes: 5
+11) Clean up: 6
+12) Walk the dog: 15
+13) Go to the market: 10
+14) Feed a cat: 3
+15) Mop the floor
+16) Feed a cat: 3
+
